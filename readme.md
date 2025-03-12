@@ -7,13 +7,13 @@ Esse projeto é desenvolvido com HTML, CSS e JavaScript no Discover da RocketSea
 
 ## Iniciando o HTML e CSS
 
-- [ ] Aplicando Background no Projeto
-- [ ] As caixas do HTML e CSS na prática
-- [ ] Centralizando uma caixa
-- [ ] Adcionando a imagem do perfil
-- [ ] Estilizando a imagem do perfil
-- [ ] Display none inline e block e alinhamento de elementos inline
-- [ ] Adicionando fontes e estilos aos textos
-- [ ] Reset de css
-- [ ] Ententendo margin padding
-- [ ] Criando lista em HTML
+- [X] Aplicando Background no Projeto
+- [X] As caixas do HTML e CSS na prática
+- [x] Centralizando uma caixa
+- [x] Adcionando a imagem do perfil
+- [x] Estilizando a imagem do perfil
+- [x] Display none inline e block e alinhamento de elementos inline
+- [x] Adicionando fontes e estilos aos textos
+- [x] Reset de css
+- [x] Ententendo margin padding
+- [x] Criando lista em HTML
