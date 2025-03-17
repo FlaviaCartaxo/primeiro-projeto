@@ -17,3 +17,14 @@ Esse projeto é desenvolvido com HTML, CSS e JavaScript no Discover da RocketSea
 - [x] Reset de css
 - [x] Ententendo margin padding
 - [x] Criando lista em HTML
+  
+## Avançando o HTML e CSS
+
+- [x] Conhecendo display flex
+- [x] Alinhando elementos com flex
+- [x] Aplicando propriedades modernas
+- [x] Ajustando fontes dos links
+- [x] Alterando propriedades com pseudo-selector hover
+- [x] Analisando o código com a ferramenta do desenvolvedor DevTools
+- [x] Adcionando ícones
+- [x] Ajustando os links sociais
