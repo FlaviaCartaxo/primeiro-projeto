@@ -28,3 +28,12 @@ Esse projeto é desenvolvido com HTML, CSS e JavaScript no Discover da RocketSea
 - [x] Analisando o código com a ferramenta do desenvolvedor DevTools
 - [x] Adcionando ícones
 - [x] Ajustando os links sociais
+- [X] Criando o rodapé
+- [X] Criando o HTML do botão switch e conhecendo o svg
+- [X] Estilizando o botão e adicionando variação light mode
+- [X] Estilizando o track
+- [X] Posicionando elementos de maneira absoluta na página
+- [X] Masterizando alinhamento e alinhando posiconamentos absolutos
+- [X] Posiciionando o elemento na troca do light para o dark mode
+- [X] Iniciando o light mode
+- [X] Ajustes de light mode
