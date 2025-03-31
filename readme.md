@@ -37,3 +37,13 @@ Esse projeto é desenvolvido com HTML, CSS e JavaScript no Discover da RocketSea
 - [X] Posiciionando o elemento na troca do light para o dark mode
 - [X] Iniciando o light mode
 - [X] Ajustes de light mode
+
+## JavaScript
+
+- [X] Algoritmos, Lógica de Programação e Sintaxe
+- [X] Introudução ao JavaScript
+- [X] Variáveis e Tipos de dados
+- [X] Funções
+- [X] Objetos
+- [X] Adicionando lógica e condicional ao projeto
+- [X] Atualizando atributos HTML com JavaScript 
