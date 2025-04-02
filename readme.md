@@ -1,11 +1,46 @@
-# DevLink - Meu Primeiro Projeto
+<h1 align="center"> DevLinks </h1>
 
-DevLinks é um agregador de links responsivo e com troca de tema que você pode usar como cartão de visitas nas suas redes sociais.
+<p align="center">
+Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
+</p>
 
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
 
-Esse projeto é desenvolvido com HTML, CSS e JavaScript no Discover da RocketSeat.
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+</p>
 
-## Iniciando o HTML e CSS
+<br>
+
+<p align="center">
+  <img alt="projeto DevLinks" src=".github/preview.jpg" width="100%">
+</p>
+
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- HTML e CSS
+- JavaScript
+- Git e Github
+- Figma
+
+## 💻 Projeto
+
+O DevLinks é um agregador de links para usar como cartão de visitas online.
+
+## 🔖 Layout
+
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321/duplicate). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+
+## 👩‍💻 Roteiro do curso
+
+### Iniciando o HTML e CSS
 
 - [X] Aplicando Background no Projeto
 - [X] As caixas do HTML e CSS na prática
@@ -18,7 +53,7 @@ Esse projeto é desenvolvido com HTML, CSS e JavaScript no Discover da RocketSea
 - [x] Ententendo margin padding
 - [x] Criando lista em HTML
   
-## Avançando o HTML e CSS
+### Avançando o HTML e CSS
 
 - [x] Conhecendo display flex
 - [x] Alinhando elementos com flex
@@ -38,7 +73,7 @@ Esse projeto é desenvolvido com HTML, CSS e JavaScript no Discover da RocketSea
 - [X] Iniciando o light mode
 - [X] Ajustes de light mode
 
-## JavaScript
+### JavaScript
 
 - [X] Algoritmos, Lógica de Programação e Sintaxe
 - [X] Introudução ao JavaScript
@@ -47,3 +82,11 @@ Esse projeto é desenvolvido com HTML, CSS e JavaScript no Discover da RocketSea
 - [X] Objetos
 - [X] Adicionando lógica e condicional ao projeto
 - [X] Atualizando atributos HTML com JavaScript 
+
+## :memo: Licença
+
+Esse projeto está sob a licença MIT.
+
+---
+
+Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)

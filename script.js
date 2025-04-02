@@ -20,7 +20,7 @@ function toggleMode() {
     img.setAttribute("alt", "Cora na praça")
   } else {
     //set tiver sem light mode, manter a imagem normal
-    img.setAttribute("src", "./assets/avatar.png")
-    img.setAttribute("alt", "Fotografia Mak Brito")
+    img.setAttribute("src", "./assets/avatar-cora.jpg")
+    img.setAttribute("alt", "Fotografia Cora na sala")
   }
 }
